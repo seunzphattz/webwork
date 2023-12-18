@@ -1,0 +1,6 @@
+table,  tr, th, td  {
+  border: 1px solid black;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  padding: 1px;
+}
